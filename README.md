@@ -1,4 +1,7 @@
-# api documentation for  [internet-of-things (v0.4.1)](https://github.com/netbeast/docs#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-internet-of-things.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-internet-of-things) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-internet-of-things.svg)](https://travis-ci.org/npmdoc/node-npmdoc-internet-of-things)
+# npmdoc-internet-of-things
+
+#### basic api documentation for  [internet-of-things (v0.4.1)](https://github.com/netbeast/docs#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-internet-of-things.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-internet-of-things) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-internet-of-things.svg)](https://travis-ci.org/npmdoc/node-npmdoc-internet-of-things)
+
 #### Netbeast Internet Of Things Open Source documentation packaged to run offline
 
 [![NPM](https://nodei.co/npm/internet-of-things.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/internet-of-things)
@@ -64,7 +67,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "0.4.1"
+    "version": "0.4.1",
+    "bin": {}
 }
 ```
 
